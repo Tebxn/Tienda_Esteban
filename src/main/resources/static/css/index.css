@@ -1,0 +1,54 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 27, 2022, 7:14:28 PM
+    Author     : ESTEBAN
+*/
+
+/*
+margin, padding, border, content
+*/
+.block{
+    font-family: Helvetica; 
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    border: 20px solid blue;
+    box-sizing: border-box;
+}
+#text1{
+    text-align: center;
+}
+
+.static{
+    position: static;
+    border: 3px solid green;
+    top: 400;
+    left: 500;
+    
+}
+.absolute{
+    position: absolute;
+    border: 3px solid red;
+    top: 400;
+    left: 500;
+    
+}
+
+.relative{
+    position: relative;
+    border: 3px solid yellow;
+    top: 400;
+    left: 500;
+    
+}
+
+.relative{
+    position: fixed;
+    border: 3px solid oragne;
+    top: 400;
+    left: 500;
+    
+}
