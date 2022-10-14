@@ -1,5 +1,5 @@
 package com.tienda.repository;
-import com.tienda.entity.Personas;
+import com.tienda.entity.Persona;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 /**
@@ -8,5 +8,5 @@ import org.springframework.stereotype.Repository;
  */
 
 @Repository
-public interface PersonaRepository extends CrudRepository<Personas,Long>{   
+public interface PersonaRepository extends CrudRepository<Persona,Long>{   
 }
