@@ -1,0 +1,16 @@
+com\tienda\service\UserService.class
+com\tienda\repository\PaisRepository.class
+com\tienda\entity\Persona.class
+com\tienda\service\IPaisService.class
+com\tienda\service\IPersonaService.class
+com\tienda\service\PaisService.class
+com\tienda\SecurityConfig.class
+com\tienda\TiendaApplication.class
+com\tienda\repository\PersonaRepository.class
+com\tienda\AppAuthenticationSuccessHandler.class
+com\tienda\entity\Pais.class
+com\tienda\WebConfig.class
+com\tienda\service\PersonaService.class
+com\tienda\controller\LoginController.class
+com\tienda\controller\PersonaController.class
+com\tienda\service\UserPrincipal.class
